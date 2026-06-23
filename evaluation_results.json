@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 1.0,
+  "finetuned_accuracy": 0.7333,
+  "improvement": -0.2667,
+  "test_set_size": 30,
+  "label_map": {
+    "match_analysis": 0,
+    "tournament_context": 1,
+    "unsupported_hot_take": 2,
+    "emotional_reaction": 3
+  },
+  "model": "distilbert-base-uncased"
+}
